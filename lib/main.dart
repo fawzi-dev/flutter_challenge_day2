@@ -28,7 +28,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
       title: 'Lemon',
       price: 12.7,
       imgURL: 'images/lim.png',
-      cardColor: const Color(0xffFFD981),
+      cardColor: const Color(0xffFFD982),
       bgColor: Colors.transparent,
     ),
     Info(
